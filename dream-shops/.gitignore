@@ -18,7 +18,7 @@ target/
 *.iws
 *.iml
 *.ipr
-*.application.properties
+C:\Users\Hp\Downloads\dream-shops\dream-shops\src\main\resources\application.properties
 
 ### NetBeans ###
 /nbproject/private/
